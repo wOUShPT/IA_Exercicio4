@@ -2,31 +2,31 @@
     "MyAgent": {
         "checkpoints": [
             {
-                "steps": 499973,
-                "file_path": "results\\ppo\\MyAgent\\MyAgent-499973.onnx",
-                "reward": 2.886029461508288,
-                "creation_time": 1623098337.775281,
+                "steps": 499952,
+                "file_path": "results\\ppo\\MyAgent\\MyAgent-499952.onnx",
+                "reward": 0.3081683264953075,
+                "creation_time": 1623363624.7134655,
                 "auxillary_file_paths": [
-                    "results\\ppo\\MyAgent\\MyAgent-499973.pt"
+                    "results\\ppo\\MyAgent\\MyAgent-499952.pt"
                 ]
             },
             {
-                "steps": 500037,
-                "file_path": "results\\ppo\\MyAgent\\MyAgent-500037.onnx",
-                "reward": 2.886029461508288,
-                "creation_time": 1623098337.9363165,
+                "steps": 500007,
+                "file_path": "results\\ppo\\MyAgent\\MyAgent-500007.onnx",
+                "reward": 0.31206897466347133,
+                "creation_time": 1623363624.8584983,
                 "auxillary_file_paths": [
-                    "results\\ppo\\MyAgent\\MyAgent-500037.pt"
+                    "results\\ppo\\MyAgent\\MyAgent-500007.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 500037,
+            "steps": 500007,
             "file_path": "results\\ppo\\MyAgent.onnx",
-            "reward": 2.886029461508288,
-            "creation_time": 1623098337.9363165,
+            "reward": 0.31206897466347133,
+            "creation_time": 1623363624.8584983,
             "auxillary_file_paths": [
-                "results\\ppo\\MyAgent\\MyAgent-500037.pt"
+                "results\\ppo\\MyAgent\\MyAgent-500007.pt"
             ]
         }
     },
